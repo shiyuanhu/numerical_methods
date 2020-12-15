@@ -1,8 +1,7 @@
 function [p_fine,p_nodes] = lagrange_inter(f,t_nodes,t_fine)
 % lagrange interpolation
 % input: 
-%    f: anonymous function to be interpolated: set this to
-%               @(x)1./(1+25*x.^2) to see Runge's phenomenon
+%    f: anonymous function to be interpolated.
 %    t_node: node points
 %    t_fine: fine grid
 % return:
