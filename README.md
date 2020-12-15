@@ -1,1 +1,1 @@
-# numerical_methods
+commonly used functions in numerical methods
