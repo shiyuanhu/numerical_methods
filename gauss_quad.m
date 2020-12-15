@@ -1,5 +1,5 @@
 function I = gauss_quad(f,a,b,n)
-% Form gaussian quadrature integration using Chebfun
+% Form gaussian quadrature integration using legnpts from Chebfun
 % inputs:
 %        f: the function handle to be integrated
 %        a, b: lower and upper integration limit
