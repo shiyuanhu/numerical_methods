@@ -1,1 +1,1 @@
-commonly used functions in numerical methods
+commonly used functions in numerical analysis
